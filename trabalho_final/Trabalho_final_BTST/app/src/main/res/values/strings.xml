@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieTrump</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_super_trunfo">MovieTrump</string>
+    <string name="text_bt_new_game">Novo Jogo</string>
+    <string name="title_activity_bluetooth">Bluetooth</string>
+    <string name="find_stop">Buscar</string>
+    <string name="text">Status: ----</string>
+    <string name="data">Enviar MSG</string>
+
+    <string name="duration">Duração</string>
+    <string name="box_office">Bilheteria</string>
+    <string name="oscars">Oscars</string>
+    <string name="imdb_score">IMDB</string>
+    <string name="empty_field">…</string>
+    <string name="round">Rodada</string>
+    <string name="me">Eu</string>
+    <string name="opponent">Adversário</string>
+
+    <!--  Bluetooth -->
+    <string name="send">Enviar</string>
+    <string name="not_connected">Você não está conectado a um dispositivo</string>
+    <string name="bt_not_enabled_leaving">Bluetooth não está ativado. Finalizando Super Trunfo.</string>
+    <string name="title_connecting">conectando…</string>
+    <string name="title_connected_to">Conectado a </string>
+    <string name="title_not_connected">não conectado</string>
+    <string name="connection_lost">Conexão perdida</string>
+    <string name="bt_not_supported_leaving">Bluetooth não é suportado. Finalizando Super Trunfo…</string>
+    <string name="already_paired">Dispositivo encontrado já pareado:</string>
+    <string name="unable_to_connect">Não é possível se conectar neste dispositivo</string>
+
+    <!--  List -->
+    <string name="scanning">buscando por dispositivos…</string>
+    <string name="select_device">Selecione um dispositivo para se conectar</string>
+    <string name="none_paired">Nenhum dispositivo foi pareado</string>
+    <string name="none_found">Nenhum dispositivo encontrado</string>
+    <string name="title_paired_devices">Dispositivos Pareados</string>
+    <string name="title_other_devices">Outros dispositivos disponíveis</string>
+    <string name="button_scan">Buscar por dispositivos</string>
+
+    <!--  SuperTrunfo -->
+    <string name="you_win">Você venceu</string>
+    <string name="you_lost">Você perdeu</string>
+    <string name="tied">Empatou</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="start_game">Iniciar partida?</string>
+    <string name="start_new_game">Iniciar nova partida?</string>
+    <string name="please_wait">Por favor aguarde…</string>
+    <string name="end_game">Fim de jogo</string>
+    <string name="you_win_the_game">Parabéns você ganhou =)</string>
+    <string name="you_lost_the_game">Eita, Você perdeu :(</string>
+    <string name="tied_play_again">Empatou :P</string>
+    <string name="waiting_opponent">Esperando oponente…</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Conecte a um dispositivo</string>
+    <string name="discoverable">Tornar visível</string>
+
+</resources>
